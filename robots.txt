@@ -1,0 +1,4 @@
+Sitemap: https://chimesindeed.github.io/rubywascals/sitemapindex.xml
+
+User-Agent: *
+Host: chimesindeed.github.io
